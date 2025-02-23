@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka"> -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Hi!+🙏;!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Hi!;Tanmoy+Here!&center=true&size=30">
   </a>
 </h1>
 
@@ -22,7 +22,7 @@
 </p> 
 
 <hr>
-<h2 align="left"> My Research Interest: </h2>
+<h2 align="left"> Research Interest: </h2>
 
 - Outlying Aspect Mining
 - Classification
@@ -41,40 +41,79 @@
 
 #### Languages:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=white&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=%23283593&labelColor=white&color=%23A8B9CC)
+![Static Badge](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&labelColor=white&color=%2300599C)
+![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=white&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=white&color=%23663399)
+![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=white&color=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/Data_Structures_%26_Algorithm-black?style=for-the-badge&logoColor=%2300599C&color=%2300599C)
 
-#### ML/DL
 
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+#### ML Libraries
+
+![Static Badge](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E&labelColor=white&color=%23F7931E)
+![Static Badge](https://img.shields.io/badge/NLTK-black?style=for-the-badge&color=FBFFE4)
+![Static Badge](https://img.shields.io/badge/BNLTK-black?style=for-the-badge&color=FBFFE4)
+![Static Badge](https://img.shields.io/badge/Transformers-black?style=for-the-badge&logo=huggingface&logoColor=%23EFB036&labelColor=white&color=%23EFB036)
+![Static Badge](https://img.shields.io/badge/opencv-black?style=for-the-badge&logo=opencv&logoColor=%235C3EE8&labelColor=white&color=%235C3EE8)
+![Static Badge](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=%23013243&labelColor=white&color=%23013243)
+![Static Badge](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=%23150458&labelColor=white&color=%23150458)
+![Static Badge](https://img.shields.io/badge/plotly-black?style=for-the-badge&logo=plotly&logoColor=%233F4F75&labelColor=white&color=%233F4F75)
+
+
+
+#### ML framework
+
+![Static Badge](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&labelColor=white&color=%23EE4C2C)
+![Static Badge](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00&labelColor=white&color=%23FF6F00)
+![Static Badge](https://img.shields.io/badge/keras-black?style=for-the-badge&logo=keras&logoColor=%23D00000&labelColor=white&color=%23D00000)
+![Static Badge](https://img.shields.io/badge/Detectron2%2C-black?style=for-the-badge&labelColor=4C7B8B)
+![Static Badge](https://img.shields.io/badge/langchain%2C-black?style=for-the-badge&logo=langchain&logoColor=%231C3C3C&labelColor=white&color=%231C3C3C)
+
+#### ML Practices & Techniques
+![Static Badge](https://img.shields.io/badge/MLOPS%20-3674B5?style=for-the-badge&labelColor=%233674B5)
+![Static Badge](https://img.shields.io/badge/llmOPS%20-7E5CAD?style=for-the-badge&labelColor=%233674B5)
+![Static Badge](https://img.shields.io/badge/RAg%20-white?style=for-the-badge&labelColor=%233674B5)
+
+
+#### Web Frameworks
+![Static Badge](https://img.shields.io/badge/next.js%20-white?style=for-the-badge&logo=nextdotjs&logoColor=%23000000&labelColor=white&color=%23000000)
+![Static Badge](https://img.shields.io/badge/react%20-white?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=white&color=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/node.js%20-white?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=white&color=%235FA04E)
+![Static Badge](https://img.shields.io/badge/flask%20-white?style=for-the-badge&logo=flask&logoColor=%23000000&labelColor=white&color=%23000000)
+![Static Badge](https://img.shields.io/badge/laravel%20-white?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=white&color=%23FF2D20)
+![Static Badge](https://img.shields.io/badge/fastapi%20-white?style=for-the-badge&logo=fastapi&logoColor=%23009688&labelColor=white&color=%23009688)
+
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Static Badge](https://img.shields.io/badge/mysql%20-white?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=white&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/postgresql%20-white?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=white&color=%234169E1)
+![Static Badge](https://img.shields.io/badge/ChromaDB%20-FFEB00?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Pinecone%20-white?style=for-the-badge)
 
-#### Tools and Technologies
+
+#### OS & Version Control
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Static Badge](https://img.shields.io/badge/github%20-%23181717?style=for-the-badge&logo=github&logoColor=white)
+
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
 
-#### IDEs
+#### Dev Tools
 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
+![Static Badge](https://img.shields.io/badge/jupyter%20-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/overleaf%20-%2347A141?style=for-the-badge&logo=overleaf&logoColor=black)
+![Static Badge](https://img.shields.io/badge/apache_tomcat%20-%23F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Static Badge](https://img.shields.io/badge/postman%20-%23FF6C37?style=for-the-badge&logo=postman&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+
 
 
 ## Connect with me:
