@@ -126,7 +126,7 @@
 [<img src="https://img.shields.io/badge/leetcode%20-white?style=for-the-badge&logo=leetcode&logoColor=%23FFA116&color=%23000000" />](https://leetcode.com/u/TanmoyShome/)
 [<img src="https://img.shields.io/badge/codeforces%20-white?style=for-the-badge&logo=codeforces&logoColor=%231F8ACB&color=black" />](https://codeforces.com/profile/DebuggingMyLady)
 [<img src="https://img.shields.io/badge/x%20-white?style=for-the-badge&logo=x&logoColor=white&color=%23000000" />](https://x.com/TanmoyShome6174) 
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/tanmoy.mir.jafar_/)
+[<img src="https://img.shields.io/badge/instagram%20-white?style=for-the-badge&logo=instagram&logoColor=%23FF0069&color=black" />](https://www.instagram.com/tanmoy.mir.jafar_/)
 
 </p>
 <hr>
