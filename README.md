@@ -6,12 +6,12 @@
   </a>
 </h1>
 
-<h5 align="center">
+<!--<h5 align="center">
   <code><a href="www.linkedin.com/in/tanmoy-shome" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.kaggle.com/tanmoyshome" title="Kaggle Profile"><img width="22" src="images/kagglee.png"> Kaggle</a></code>
   <code><a href="https://leetcode.com/u/TanmoyShome/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> Leetcode</a></code>
   <code><a href="https://codeforces.com/profile/DebuggingMyLady" title="Codeforece Profile"><img width="22" src="images/codeforece.png"> Codeforce</a></code>
-</h5>
+</h5>-->
 <br>
 <p align="left">
   I graduated with a Bachelor's in Software Engineering from <a href ="https://daffodilvarsity.edu.bd/">Daffodil International University</a>, Bangladesh. Currently, I’m a Research Assistant at <a href ="https://bengaliai.github.io/">Bengali.AI,</a> where I focus on advancing Bengali Language Technology through innovative algorithms and open-source contributions.
@@ -120,12 +120,14 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/tanmoy-shome)
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/tanmoyshome)
+[<img src="https://img.shields.io/badge/x%20-white?style=for-the-badge&logo=x&logoColor=white&color=%23000000" />](https://x.com/TanmoyShome6174) 
+[<img src="https://img.shields.io/badge/leetcode%20-white?style=for-the-badge&logo=leetcode&logoColor=%23FFA116&color=%23000000" />](https://leetcode.com/u/TanmoyShome/)
+[<img src="https://img.shields.io/badge/codeforces%20-white?style=for-the-badge&logo=codeforces&logoColor=%231F8ACB&color=black" />](https://codeforces.com/profile/DebuggingMyLady)
+[<img src="https://img.shields.io/badge/x%20-white?style=for-the-badge&logo=x&logoColor=white&color=%23000000" />](https://x.com/TanmoyShome6174) 
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/tanmoy.mir.jafar_/)
+
 </p>
 <hr>
 
