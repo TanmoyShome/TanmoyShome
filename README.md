@@ -8,26 +8,13 @@
 
 <h5 align="center">
   <code><a href="www.linkedin.com/in/tanmoy-shome" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.kaggle.com/tanmoyshome" title="Kaggle Profile"><img width="22" src="images/kaggle.png"> Kaggle</a></code>
+  <code><a href="https://www.kaggle.com/tanmoyshome" title="Kaggle Profile"><img width="22" src="images/kagglee.png"> Kaggle</a></code>
   <code><a href="https://leetcode.com/u/TanmoyShome/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> Leetcode</a></code>
   <code><a href="https://codeforces.com/profile/DebuggingMyLady" title="Codeforece Profile"><img width="22" src="images/codeforece.png"> Codeforce</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+<p align="left">
+  I graduated with a Bachelor's in Software Engineering from [Daffodil International University](https://daffodilvarsity.edu.bd/), Bangladesh. Currently, I’m a Research Assistant at [Bengali.AI](https://bengaliai.github.io/) where I focus on advancing Bengali Language Technology through innovative algorithms and open-source contributions.
   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
