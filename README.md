@@ -24,18 +24,17 @@
 <hr>
 <h2 align="left"> Research Interest: </h2>
 
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
-<br>
+![Static Badge](https://img.shields.io/badge/Multimodal_learning%20-%2320BEFF?style=social&color=black)
+![Static Badge](https://img.shields.io/badge/Graph_Neural_Networks%20-white?style=social&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Multimodal_Graph_Reasoning%20-white?style=social&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Reinforcement_Learning%20-white?style=social&labelColor=black&color=black)
+
+<br><br>
  **I am open to**:
 
-- any collaboration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- Any collaboration research which align my Research Interest.
+- Machine learning projects(Development or Research)</br>
+- <b>Work for AI/ML Engineer/Research Assistant position.</b>
 
 ## Skills:
 
@@ -121,7 +120,7 @@
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/tanmoy-shome)
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/tanmoyshome)
+[<img src="https://img.shields.io/badge/kaggle%20-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF&color=black" />](https://www.kaggle.com/tanmoyshome)
 [<img src="https://img.shields.io/badge/x%20-white?style=for-the-badge&logo=x&logoColor=white&color=%23000000" />](https://x.com/TanmoyShome6174) 
 [<img src="https://img.shields.io/badge/leetcode%20-white?style=for-the-badge&logo=leetcode&logoColor=%23FFA116&color=%23000000" />](https://leetcode.com/u/TanmoyShome/)
 [<img src="https://img.shields.io/badge/codeforces%20-white?style=for-the-badge&logo=codeforces&logoColor=%231F8ACB&color=black" />](https://codeforces.com/profile/DebuggingMyLady)
