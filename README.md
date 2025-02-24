@@ -42,7 +42,7 @@
 
 ![Static Badge](https://img.shields.io/badge/python%20-white?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/c%20-white?style=for-the-badge&logo=c&logoColor=%23A8B9CC&labelColor=black&color=black)
-![Static Badge](https://img.shields.io/badge/cplusplus%20-white?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/c%2B%2B%20-white?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Java%20-white?style=for-the-badge&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/html5%20-white?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/css%20-white?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=black&color=black)
