@@ -130,32 +130,27 @@
 
 
 <h2 align="center"></h2
-|                                     |                                     |
-|-------------------------------------|-------------------------------------|
-| [![GitHub Streak](https://github-readme-streak-stats-bice-five.vercel.app?user=Tanmoy4672&theme=dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy4672&layout=compact)
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats-bice-five.vercel.app?user=Tanmoy4672&theme=dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
 
-<!--
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-bice-five.vercel.app?user=Tanmoy4672&theme=dark&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" /> -->
+  <img align="left" width="49%" src="https://github-readme-streak-stats-bice-five.vercel.app?user=Tanmoy4672&theme=dark&hide_border=true&border_radius=5&short_numbers=true" alt="Tanmoy Streak" /> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy4672&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy4672&layout=compact)
 
-  <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmoy4672&show_icons=true&theme=radical) -->
 
-
-
-
-<hr> 
+<img alt="top langs" align="left" width="45%" src= "https://github-readme-stats.vercel.app/api?username=Tanmoy4672&show_icons=true&theme=dark#gh-dark-mode-only" />
+ 
 
 
-<h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4> 
 
+
+
+<h4 align = "left">
+  <a href="https://github.com/Tanmoy4672?tab=repositories" title="Show Repositories">Show More</a>
+</h4>
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
