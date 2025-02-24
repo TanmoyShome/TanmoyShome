@@ -163,8 +163,8 @@
 
 
 
-<hr> -->
-
+<hr> 
+<!--
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -184,7 +184,7 @@
 
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4> 
 
 
 <!--
