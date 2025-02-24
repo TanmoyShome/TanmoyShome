@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Hi!;Tanmoy+Here!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Hi!;Tanmoy+Here+:3&center=true&size=30">
   </a>
 </h1>
 
@@ -40,14 +40,14 @@
 
 #### Languages:
 
-![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=white&color=%233776AB)
-![Static Badge](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=%23283593&labelColor=white&color=%23A8B9CC)
-![Static Badge](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&labelColor=white&color=%2300599C)
-![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&color=%233776AB)
-![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=white&color=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=white&color=%23663399)
-![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=white&color=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/Data_Structures_%26_Algorithm-black?style=for-the-badge&logoColor=%2300599C&color=%2300599C)
+![Static Badge](https://img.shields.io/badge/python%20-white?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/c%20-white?style=for-the-badge&logo=c&logoColor=%23A8B9CC&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/cplusplus%20-white?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Java%20-white?style=for-the-badge&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/html5%20-white?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/css%20-white?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/javascript%20-white?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Data_Structures_%26_Algorithm%20-white?style=for-the-badge&labelColor=black&color=black)
 
 
 #### ML Libraries
