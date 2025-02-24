@@ -79,40 +79,40 @@
 
 
 #### Web Frameworks
-![Static Badge](https://img.shields.io/badge/next.js%20-white?style=for-the-badge&logo=nextdotjs&logoColor=%23000000&labelColor=white&color=%23000000)
-![Static Badge](https://img.shields.io/badge/react%20-white?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=white&color=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/node.js%20-white?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=white&color=%235FA04E)
-![Static Badge](https://img.shields.io/badge/flask%20-white?style=for-the-badge&logo=flask&logoColor=%23000000&labelColor=white&color=%23000000)
-![Static Badge](https://img.shields.io/badge/laravel%20-white?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=white&color=%23FF2D20)
-![Static Badge](https://img.shields.io/badge/fastapi%20-white?style=for-the-badge&logo=fastapi&logoColor=%23009688&labelColor=white&color=%23009688)
+![Static Badge](https://img.shields.io/badge/next.js%20-white?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/react.js%20-white?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/node.js%20-white?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/flask%20-white?style=for-the-badge&logo=flask&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/laravel%20-white?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/fastapi%20-white?style=for-the-badge&logo=fastapi&logoColor=%23009688&labelColor=black&color=black)
 
 
 #### Database
 
-![Static Badge](https://img.shields.io/badge/mysql%20-white?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=white&color=%234479A1)
-![Static Badge](https://img.shields.io/badge/postgresql%20-white?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=white&color=%234169E1)
-![Static Badge](https://img.shields.io/badge/ChromaDB%20-FFEB00?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Pinecone%20-white?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/mysql%20-white?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/postgresql%20-white?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/ChromaDB%20-white?style=for-the-badge&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Pinecone%20-white?style=for-the-badge&labelColor=black&color=black)
 
 
 #### OS & Version Control
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Static Badge](https://img.shields.io/badge/github%20-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/linux%20-white?style=for-the-badge&logo=linux&logoColor=%23FCC624&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/git%20-white?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/github%20-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)
 
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
 
 #### Dev Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![Static Badge](https://img.shields.io/badge/jupyter%20-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Static Badge](https://img.shields.io/badge/overleaf%20-%2347A141?style=for-the-badge&logo=overleaf&logoColor=black)
-![Static Badge](https://img.shields.io/badge/apache_tomcat%20-%23F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Static Badge](https://img.shields.io/badge/postman%20-%23FF6C37?style=for-the-badge&logo=postman&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![Static Badge](https://img.shields.io/badge/Visual_Studio_Code%20-white?style=for-the-badge&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/pycharm%20-white?style=for-the-badge&logo=pycharm&logoColor=5CB338&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/jupyter%20-white?style=for-the-badge&logo=jupyter&logoColor=%23F37626&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/overleaf%20-white?style=for-the-badge&logo=overleaf&logoColor=%2347A141&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/apache_tomcat%20-white?style=for-the-badge&logo=apachetomcat&logoColor=%23F8DC75&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/postman%20-white?style=for-the-badge&logo=postman&logoColor=%23FF6C37&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/eclipseide%20-white?style=for-the-badge&logo=eclipseide&logoColor=%232C2255&labelColor=black&color=black)
 
 
 
