@@ -129,10 +129,19 @@
 [<img src="https://img.shields.io/badge/instagram%20-white?style=for-the-badge&logo=instagram&logoColor=%23FF0069&color=black" />](https://www.instagram.com/tanmoy.mir.jafar_/)
 
 </p>
-<hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
+<h2 align="center"></h2>
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-bice-five.vercel.app?user=Tanmoy4672&theme=dark&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" />
+</a>
+
+</div>
+
+<!--<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -147,13 +156,14 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
-  </div>
+  </div> -->
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-bice-five.vercel.app?user=Tanmoy4672&theme=dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)</p>
 
-<hr>
+
+
+<hr> -->
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
