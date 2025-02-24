@@ -14,7 +14,7 @@
 </h5>-->
 <br>
 <p align="left">
-  I graduated with a Bachelor's in Software Engineering from <a href ="https://daffodilvarsity.edu.bd/">Daffodil International University</a>, Bangladesh. Currently, I’m a Research Assistant at <a href ="https://bengaliai.github.io/">Bengali.AI,</a> where I focus on advancing Bengali Language Technology through innovative algorithms and open-source contributions.
+  I graduated with a Bachelor's in Software Engineering, major in Data Science from <a href ="https://daffodilvarsity.edu.bd/">Daffodil International University</a>, Bangladesh. Currently, I’m a Research Assistant at <a href ="https://bengaliai.github.io/">Bengali.AI,</a> where I focus on advancing Bengali Language Technology through innovative algorithms and open-source contributions.
 <!--   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
@@ -52,29 +52,30 @@
 
 #### ML Libraries
 
-![Static Badge](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E&labelColor=white&color=%23F7931E)
-![Static Badge](https://img.shields.io/badge/NLTK-black?style=for-the-badge&color=FBFFE4)
-![Static Badge](https://img.shields.io/badge/BNLTK-black?style=for-the-badge&color=FBFFE4)
-![Static Badge](https://img.shields.io/badge/Transformers-black?style=for-the-badge&logo=huggingface&logoColor=%23EFB036&labelColor=white&color=%23EFB036)
-![Static Badge](https://img.shields.io/badge/opencv-black?style=for-the-badge&logo=opencv&logoColor=%235C3EE8&labelColor=white&color=%235C3EE8)
-![Static Badge](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=%23013243&labelColor=white&color=%23013243)
-![Static Badge](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=%23150458&labelColor=white&color=%23150458)
-![Static Badge](https://img.shields.io/badge/plotly-black?style=for-the-badge&logo=plotly&logoColor=%233F4F75&labelColor=white&color=%233F4F75)
+![Static Badge](https://img.shields.io/badge/scikit_learn%20-white?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/NLTK%20-white?style=for-the-badge&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/BNLTK%20-white?style=for-the-badge&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Transformers%20-white?style=for-the-badge&logo=huggingface&logoColor=%23FFD21E&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/opencv%20-white?style=for-the-badge&logo=opencv&logoColor=%235C3EE8&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/numpy%20-white?style=for-the-badge&logo=numpy&logoColor=%23013243&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/pandas%20-white?style=for-the-badge&logo=pandas&logoColor=%23150458&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/plotly%20-white?style=for-the-badge&logo=plotly&logoColor=%233F4F75&labelColor=black&color=black)
 
 
 
 #### ML framework
 
-![Static Badge](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&labelColor=white&color=%23EE4C2C)
-![Static Badge](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00&labelColor=white&color=%23FF6F00)
-![Static Badge](https://img.shields.io/badge/keras-black?style=for-the-badge&logo=keras&logoColor=%23D00000&labelColor=white&color=%23D00000)
-![Static Badge](https://img.shields.io/badge/Detectron2%2C-black?style=for-the-badge&labelColor=4C7B8B)
-![Static Badge](https://img.shields.io/badge/langchain%2C-black?style=for-the-badge&logo=langchain&logoColor=%231C3C3C&labelColor=white&color=%231C3C3C)
+![Static Badge](https://img.shields.io/badge/pytorch%20-white?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Tensorflow%20-white?style=for-the-badge&logo=Tensorflow&logoColor=%23EE4C2C&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/keras%20-white?style=for-the-badge&logo=keras&logoColor=%23D00000&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Detectron2%20-white?style=for-the-badge&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/langchain%20-white?style=for-the-badge&logo=langchain&logoColor=%231C3C3C&labelColor=black&color=black)
+
 
 #### ML Practices & Techniques
-![Static Badge](https://img.shields.io/badge/MLOPS%20-3674B5?style=for-the-badge&labelColor=%233674B5)
-![Static Badge](https://img.shields.io/badge/llmOPS%20-7E5CAD?style=for-the-badge&labelColor=%233674B5)
-![Static Badge](https://img.shields.io/badge/RAg%20-white?style=for-the-badge&labelColor=%233674B5)
+![Static Badge](https://img.shields.io/badge/MLOPS%20-white?style=for-the-badge&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/llmOPS%20-white?style=for-the-badge&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/RAg%20-white?style=for-the-badge&labelColor=black&color=black)
 
 
 #### Web Frameworks
