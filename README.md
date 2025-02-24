@@ -60,13 +60,11 @@
 ![Static Badge](https://img.shields.io/badge/numpy%20-white?style=for-the-badge&logo=numpy&logoColor=%23013243&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/pandas%20-white?style=for-the-badge&logo=pandas&logoColor=%23150458&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/plotly%20-white?style=for-the-badge&logo=plotly&logoColor=%233F4F75&labelColor=black&color=black)
-<!--#### ML framework -->
 ![Static Badge](https://img.shields.io/badge/pytorch%20-white?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Tensorflow%20-white?style=for-the-badge&logo=Tensorflow&logoColor=%23EE4C2C&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/keras%20-white?style=for-the-badge&logo=keras&logoColor=%23D00000&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Detectron2%20-white?style=for-the-badge&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/langchain%20-white?style=for-the-badge&logo=langchain&logoColor=%231C3C3C&labelColor=black&color=black)
-<!--#### ML Practices & Techniques -->
 ![Static Badge](https://img.shields.io/badge/MLOPS%20-white?style=for-the-badge&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/llmOPS%20-white?style=for-the-badge&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/RAg%20-white?style=for-the-badge&labelColor=black&color=black)
