@@ -126,13 +126,13 @@
 
 
 
-<a href="https://git.io/streak-stats"><img align="left" width="49%" src="https://github-readme-streak-stats-bice-five.vercel.app?user=Tanmoy4672&theme=whatsapp-dark2&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="left" width="49%" src="https://github-readme-streak-stats-bice-five.vercel.app?user=TanmoyShome&theme=whatsapp-dark2&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy4672&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmoy4672&show_icons=true&theme=radical) -->
 
-<img alt="top langs" align="left" width="45%" src= "https://github-readme-stats.vercel.app/api?username=Tanmoy4672&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img alt="top langs" align="left" width="45%" src= "https://github-readme-stats.vercel.app/api?username=TanmoyShome&show_icons=true&theme=dark#gh-dark-mode-only" />
  
 
 <!--
