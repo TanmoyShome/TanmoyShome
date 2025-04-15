@@ -14,7 +14,7 @@
 </h5>-->
 <br>
 <p align="left">
-  I graduated with a Bachelor's in Software Engineering, major in Data Science from <a href ="https://daffodilvarsity.edu.bd/">Daffodil International University</a>, Bangladesh. Currently, I’m a Research Assistant at <a href ="https://bengaliai.github.io/">Bengali.AI,</a> where I focus on advancing Bengali Language Technology through innovative algorithms and open-source contributions.
+  I graduated with a Bachelor's in Software Engineering, major in Data Science from <a href ="https://daffodilvarsity.edu.bd/">Daffodil International University</a>, Bangladesh. Currently, I am working as an AI Engineer at <a href ="https://visie.tech/">VISIE</a> Also I’m a Research Assistant at <a href ="https://bengaliai.github.io/">Bengali.AI,</a> where I focus on advancing Bengali Language Technology through innovative algorithms and open-source contributions.
 <!--   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
